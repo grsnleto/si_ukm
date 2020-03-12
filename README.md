@@ -1,2 +1,2 @@
 # si_ukm
-Aplikasi Unit Kegiatan Mahasiswa
+All Aplications Information System
